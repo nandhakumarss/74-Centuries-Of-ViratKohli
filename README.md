@@ -13,12 +13,12 @@ Basic statistical description of the centuries are displayed along with many gra
 The data contains information and details of Virat Kohli’s each and every centuries. The data has 14 columns and each column represents an attribute.
 
 ## CONTENTS
-Setting up the environment
-Importing libraries
-Uploading the data
-Data Cleaning
-Data Visualisation
-Result
+- Setting up the environment
+- Importing libraries
+- Uploading the data
+- Data Cleaning
+- Data Visualisation
+- Result
 
 ## INFRENCE
 We have inferred lot of insights on Virat’s performance, centuries, etc from the graphs and chats that we have created using the library plotly express.
